@@ -1,5 +1,11 @@
 # Two-Horizon Dip Catcher — btc-race-bot
 
+[![make.fun bounty](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+[![live rank](https://make.fun/badge/btc-race-24h-20261117-0603/zkNata/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+[![live reward](https://make.fun/badge/btc-race-24h-20261117-0603/zkNata/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+
+Entry for the [make.fun bounty Race a BTC trading bot live for 24 hours](https://make.fun/bounty/btc-race-24h-20261117-0603).
+
 A trading bot for the make.fun bounty **Race a BTC trading bot live for
 24 hours** (`btc-race-24h-20261117-0603`). It trades Coinbase Wrapped BTC
 (CBBTC) against USDC, minute by minute, starting from $1,000 of paper
